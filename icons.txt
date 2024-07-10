@@ -1,0 +1,21 @@
+<i class='fa-solid fa-magnifying-glass'></i>
+<i class='bi bi-menu-button-wide'></i>
+<i class='fa-solid fa-chevron-down'></i>
+<i class='bx bx-radio-circle'></i>
+<i class='bx bx-menu'></i>
+<i class='fa-solid fa-magnifying-glass'></i>
+<i class='fa-regular fa-bell'></i>
+<i class='bx bx-message-detail'></i>
+<i class='fa-regular fa-user'></i>
+<i class='bx bx-cog'></i>
+<i class='bx bx-help-circle'></i>
+<i class='fa-solid fa-arrow-right-from-bracket'></i>
+<i class='bx bxs-down-arrow'></i>
+<i class='fa-solid fa-magnifying-glass'></i>
+<i class='bx bx-laptop'></i>
+<i class='bx bx-mobile-alt' style="margin-left: 5px;"></i>
+<i class='bx bx-mobile'></i>
+<i class='bx bx-chevron-left'></i>
+<i class="fa-solid fa-ellipsis"></i>
+<i class='bx bx-chevron-right'></i>
+<i class='fa-solid fa-download'></i>
